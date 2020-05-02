@@ -2,6 +2,7 @@
     margin:50px;
     width:80%;
     display: inline-block;
+
     
 }
 
@@ -12,4 +13,5 @@ body{
 }
 .navbar{
     position: sticky;
+    top:1px;
 }
