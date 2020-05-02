@@ -1,0 +1,15 @@
+.card{
+    margin:50px;
+    width:80%;
+    display: inline-block;
+    
+}
+
+body{
+    background-color:rgb(146, 153, 2);
+    font-family: 'Libre Baskerville', serif;
+    /* background-image: url("/media/images/pistachio.jpg"); */
+}
+.navbar{
+    position: sticky;
+}
